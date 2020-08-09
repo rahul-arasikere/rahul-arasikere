@@ -9,4 +9,4 @@ I am a computer science student currently studying at Boston University.
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul-arasikere&show_icons=true) 
 
-![Rahul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-arasikere&show_icons=true&&layout=compact&hide=notebook)
+![Rahul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-arasikere&show_icons=true&&layout=compact&hide=jupyter-notebook)
