@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computer science student currently studying at Boston University.
+I am an embedded engineer at Shell TechWorks.
 
 - How to reach me: [Email](mailto://arasikere.rahul@gmail.com) | [LinkedIn](https://linkedin.com) 
 
